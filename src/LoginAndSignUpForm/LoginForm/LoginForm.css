@@ -1,0 +1,49 @@
+.form-group {
+  margin-bottom: 1rem;
+}
+
+.form-label {
+  font-weight: bold;
+  
+  
+}
+
+.form-control {
+  border-radius: 0;
+  height:50px;
+  width:270px;
+  border-radius: 5px;
+  text-align:center;
+  margin-right:30px;
+  margin-left:28px;
+}
+
+.btn-primary {
+  border-radius: 0;
+  height:50px;
+  width:270px;
+  border-radius: 5px;;
+margin-top:10px;
+margin-left: 10px;
+color:blue;
+}
+.LoginForm
+{
+  margin-top:100px;
+  margin-left:600px;
+  background-color:cadetblue;
+  height:550px;
+  width:450px;
+  border-radius:50px;
+}
+#LoginContainer
+{
+  margin-left:0px;
+}
+h3{
+  text-align:center;
+  margin-top: 110px;
+  margin-bottom: 50px;;
+}
+
+

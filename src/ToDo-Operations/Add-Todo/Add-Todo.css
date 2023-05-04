@@ -1,0 +1,41 @@
+
+  
+  .Form label {
+    font-weight: bold;
+  }
+  
+  .Form.Control,option ,select{
+    margin-bottom: 15px;
+    margin-right:40px;
+    height:50px;
+    width:270px;
+    margin-top:10px;
+  }
+  
+  .Form.Control:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+  }
+  
+  .Form textarea {
+    resize: none;
+  }
+  table, th, td {
+    border: 1px solid;
+    padding: 15px;
+  }
+  table{
+    margin-top:40px;
+  }
+  .myDiv
+  {
+    display:flex;
+    padding:15px;
+    
+  }
+  #todoBtn
+  {
+    margin-left:150px;
+  }
+  
+  

@@ -1,0 +1,38 @@
+{
+  "Users": [
+    {
+      "userName": "Madhu",
+      "password": "Madhu123",
+      "emailId": "madhu@gmail.com",
+      "mobileNumber": "9078563412",
+      "country": "India",
+      "dateOfBirth": "2023-03-09",
+      "gender": "Male",
+      "isAcceptedTerms": true,
+      "id": 1
+    },
+    {
+      "userName": "Harsha",
+      "password": "Mm2345678",
+      "emailId": "harshaBoogley@gmail.com",
+      "mobileNumber": "9059902562",
+      "country": "India",
+      "dateOfBirth": "2023-02-28",
+      "gender": "Male",
+      "isAcceptedTerms": true,
+      "id": 2
+    },
+    {
+      "userName": "hello",
+      "password": "Mm2345678",
+      "emailId": "harshaBoogley@gmail.com",
+      "mobileNumber": "9059902562",
+      "country": "India",
+      "dateOfBirth": "2023-02-28",
+      "gender": "Male",
+      "isAcceptedTerms": true,
+      "id": 3
+    }
+   
+  ]
+}
